@@ -1,0 +1,84 @@
+body {
+    background-image: url('images/rockets.png');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 90%;
+    background-position-y: 110px;
+    background-position-x: 40px;
+}
+#to_home {
+    background: white;
+    border: none;
+    color: #003e7e;
+    padding: 2px 15px;
+    font-family: 'Source San Pro', sans-serif;
+    font-size: 1.2em;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+#to_academics {
+    background: white;
+    border: none;
+    color: #003e7e;
+    padding: 2px 15px;
+    font-family: 'Source San Pro', sans-serif;
+    font-size: 1.2em;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+#to_offices {
+    background: white;
+    border: none;
+    color: #003e7e;
+    padding: 2px 15px;
+    font-family: 'Source San Pro', sans-serif;
+    font-size: 1.2em;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+#to_rec {
+    background: white;
+    border: none;
+    color: #003e7e;
+    padding: 2px 15px;
+    font-family: 'Source San Pro', sans-serif;
+    font-size: 1.2em;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+#header_title h1 {
+    font-family: 'Source San Pro', sans-serif;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+    font-size: 2em;
+    color: white;
+    text-transform: uppercase;
+}
+#header_title {
+    padding-left: 0;
+    padding-right: 0;
+    clear: both;
+    background: #003e7e;
+}
+h1, h2, h3, h4 {
+    font-family: 'Source San Pro', sans-serif;
+    color: #003e7e;
+    text-transform: uppercase;
+}
+p, li{
+    font-family: 'Source San Pro', sans-serif;
+    font-size: large;
+}
+h1{
+    color: #003e7e;
+    padding-left: 30px;
+    border: black;
+}
+p.bold {
+    font-weight: bold;
+}
+p.blue{
+    color: #003e7e;
+}
